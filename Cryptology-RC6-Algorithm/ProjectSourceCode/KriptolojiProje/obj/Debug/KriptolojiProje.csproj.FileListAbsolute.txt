@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.Form1.resources
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\bin\Debug\KriptolojiProje.exe.config
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\bin\Debug\KriptolojiProje.exe
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\bin\Debug\KriptolojiProje.pdb
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.exe
+C:\Users\ASUS\Desktop\Kriptolojiye Giriş\KriptolojiProje\KriptolojiProje\obj\Debug\KriptolojiProje.pdb
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\bin\Debug\KriptolojiProje.exe.config
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\bin\Debug\KriptolojiProje.exe
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\bin\Debug\KriptolojiProje.pdb
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.Form1.resources
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.exe
+C:\Users\ASUS\Desktop\g161210019-u131210026\ProjeKaynakKodDosyaları\KriptolojiProje\obj\Debug\KriptolojiProje.pdb
